@@ -1,10 +1,9 @@
-# Recovery-Utilities
-This repo will contain various recovery scripts.
-Password Crackers , Automaters , System Logs.
-You can easily download and run these scripts 
+*nutCracker v2.09*
+nutCracker is a simple Zip Password Recovery Utility which can bypass UTF-8 and ASCII passwords using the brute force method.
+Although its easy to use , it takes hell lot of time so be patient
+nutCracker is made 100% using python
 
 
-*Disclaimer*
+USAGE OPTIONS
 
-These scripts are made as a university group project and may not give the best results. So use them at your own risk
-
+Linux : python3 nutCrackerv2.py
